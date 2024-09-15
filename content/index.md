@@ -4,7 +4,7 @@ title: 👋 Welcome
 
 hi!
 
-i'm siddharth. i do by sidbin/g online in most places.
+i'm siddharth. i go by sidbin/g online in most places.
 
 i'm a tinkerer at heart and trying to go up and down the layers of computer abstraction.
 
