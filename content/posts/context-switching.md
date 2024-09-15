@@ -1,7 +1,7 @@
 ---
 title: fuck context switching
 link: fuck-context-switching
-published_date: 2024-08-27 15:03
+date created: 2024-08-27
 ---
 context switching sucks.
 
