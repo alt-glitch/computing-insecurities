@@ -10,7 +10,6 @@ type Options = {
     repoId: string
     category: string
     categoryId: string
-    term: string
     mapping?: "url" | "title" | "og:title" | "specific" | "number" | "pathname"
     strict?: boolean
     reactionsEnabled?: boolean
@@ -33,7 +32,6 @@ export default ((opts: Options) => {
           data-repo-id={opts.options.repoId}
           data-category={opts.options.category}
           data-category-id={opts.options.categoryId}
-          data-term={opts.options.term}
           data-mapping={opts.options.mapping ?? "url"}
           data-strict={boolToStringBool(opts.options.strict ?? true)}
           data-reactions-enabled={boolToStringBool(opts.options.reactionsEnabled ?? true)}

@@ -36,27 +36,6 @@ const recentNotesConfig = {
 const backlinksConfig = {
   excludeTags: ["backlinks-exclude"],
 }
-const giscusConfig = {
-  provider: "giscus",
-  options: {
-    // from data-repo
-    repo: "alt-glitch/computing-insecurities",
-    // from data-repo-id
-    repoId: "R_kgDOMx_N3g",
-    // from data-category
-    category: "Announcements",
-    // from data-category-id
-    categoryId: "DIC_kwDOMVIwG84Cguqi",
-    mapping: "specific",
-    strict: true,
-    reactionsEnabled: true,
-    inputPosition: "bottom",
-    term: "Guestbook",
-  },
-}
-const githubSourceConfig = {
-  repoLink: "https://github.com/alt-glitch/computing-insecurities",
-}
 ///////////////////////////////////////////////////
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -67,27 +46,23 @@ export const sharedPageComponents: SharedLayout = {
       { titles: [homepageTitle, mapTitle] },
       Component.RecentNotes(recentNotesConfig),
     ),
-    Component.OnlyFor(
-      { titles: [homepageTitle] },
-      Component.Comments({
-        provider: "giscus",
-        options: {
-          // from data-repo
-          repo: "fanteastick/quartz-test",
-          // from data-repo-id
-          repoId: "R_kgDOMVIwGw",
-          // from data-category
-          category: "Announcements",
-          // from data-category-id
-          categoryId: "DIC_kwDOMVIwG84Cguqi",
-          mapping: "specific",
-          strict: false,
-          reactionsEnabled: false,
-          inputPosition: "top",
-          term: "Guestbook",
-        },
-      }),
-    ),
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        // from data-repo
+        repo: "alt-glitch/computing-insecurities",
+        // from data-repo-id
+        repoId: "R_kgDOMx_N3g",
+        // from data-category
+        category: "Announcements",
+        // from data-category-id
+        categoryId: "DIC_kwDOMx_N3s4Cifk5",
+        mapping: "url",
+        strict: true,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+      },
+    }),
   ],
   footer: Component.Footer({
     links: {
@@ -106,13 +81,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(tagListConfig),
     Component.MobileOnly(Component.TableOfContents()),
-    Component.OnlyFor({ titles: [mapTitle] }, Component.Explorer(explorerConfig)),
+    // Component.OnlyFor({ titles: [mapTitle] }, Component.Explorer(explorerConfig)),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Row([Component.Map(), Component.Darkmode(), Component.Search()]),
     Component.DesktopOnly(Component.TableOfContents2()),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(graphConfig),
