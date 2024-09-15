@@ -4,7 +4,7 @@ import { FileNode } from "./quartz/components/ExplorerNode"
 import { SimpleSlug } from "./quartz/util/path"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 // Constants for config that are reused a lot
-const homepageTitle = "computing insecurities"
+const homepageTitle = "👋 Welcome"
 const modifiedListTitle = "All-files-chronologically-modified"
 const mapTitle = "Map"
 const tagsToRemove = ["graph-exclude", "explorer-exclude", "backlinks-exclude", "recents-exclude"]
@@ -29,6 +29,7 @@ const recentNotesConfig = {
   showTags: false,
   title: "Recently edited notes:",
   showDate: true,
+  limit: 5,
   linkToMore: ("meta/" + modifiedListTitle) as SimpleSlug,
   excludeTags: ["recents-exclude"],
   filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/"),
@@ -81,14 +82,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(tagListConfig),
     Component.MobileOnly(Component.TableOfContents()),
-    // Component.OnlyFor({ titles: [mapTitle] }, Component.Explorer(explorerConfig)),
+    Component.OnlyFor({ titles: [mapTitle] }, Component.Explorer(explorerConfig)),
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Row([Component.Map(), Component.Darkmode(), Component.Search()]),
     Component.DesktopOnly(Component.TableOfContents2()),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
     Component.Graph(graphConfig),
@@ -105,6 +106,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Row([Component.Map(), Component.Darkmode(), Component.Search()]),
+    Component.Explorer(),
   ],
   right: [],
 }
