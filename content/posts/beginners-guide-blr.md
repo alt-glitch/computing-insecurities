@@ -2,7 +2,6 @@
 title: beginner's guide to bangalore
 date created: 2024-09-18
 description: how to move here, how to survive and
-draft: "false"
 ---
 i moved to bangalore [recently](https://x.com/sidbing/status/1817945864704258514) and i've been staying in this city for a better part of a year. i wanted to write this guide/checklist for someone considering to the same.
 
@@ -23,12 +22,15 @@ here's an opinionated view of the city. remember that, your understanding of the
 - green: if you can afford it, it's well worth living in this circle. travel times are low since most things happen here, density of places to work out of from, events happening is quite high in my experience
 ---
 
-if you're house hunting, here's a few notes;
+if you're house hunting, here's a few more opinionated notes;
+- the bangaloreroomi [discord server](https://discord.gg/GA3eyNVcT9) helped me out a lot. other communities include: [flashmates](https://x.com/flashmateshq), [fmr](https://x.com/fmrbangalore),  [twtrbnb](https://x.com/twitrbnb)
 - refer to this [amazing guide by manas](https://manassaloi.com/2021/01/03/ultimate-house-hunting.html).
-- it's an unpaid 2-3 week full-time job
+- it's an unpaid 2-3 week full-time job.
 - use a CRM if you need to, you'll be talking to a lot of people. be structured.
 - avoid 1bhks, not worth it in most places cost-wise.
+- we're young, try to move in with like-minded people. be totally okay with having a "temporary" 1-year place until you find that.
 - be aware: bangalore faces annual water shortage, electricity cuts, has a waste management problem in many areas. keep this in mind when flat-hunting.
 - prefer gated communities as they take care of many of the issues described above.
 - avoid hosting parties regularly. most landlords don't like that. they're also a headache to manage and leave your house trashed and dirty, making your house a very unproductive space, obviously ymmv but i generally prefer not to call groups of people over more than 3-4 times a month.
-- 
+- bangalore is a dusty city in most places. something to keep in mind, you'll be dusting stuff a lot.
+- try to automate the cooking cleaning part of your life such that your involvement is minimal. meaning, even if it takes time and more money, get a good cook and cleaning help. it's worth it.
