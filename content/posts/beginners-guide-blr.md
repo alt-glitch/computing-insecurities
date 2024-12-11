@@ -22,6 +22,7 @@ here's an opinionated view of the city. remember that, your understanding of the
 - yellow: this circle covers what i think to be quite dense in terms of interesting people to meet, interesting things to do. 
 - green: if you can afford it, it's well worth living in this circle. travel times are low since most things happen here, density of places to work out of from, events happening is quite high in my experience
 ---
+
 if you're house hunting, here's a few notes;
 - refer to this [amazing guide by manas](https://manassaloi.com/2021/01/03/ultimate-house-hunting.html).
 - it's an unpaid 2-3 week full-time job
@@ -29,4 +30,5 @@ if you're house hunting, here's a few notes;
 - avoid 1bhks, not worth it in most places cost-wise.
 - be aware: bangalore faces annual water shortage, electricity cuts, has a waste management problem in many areas. keep this in mind when flat-hunting.
 - prefer gated communities as they take care of many of the issues described above.
-- avoid hosting parties. most landlords don't like that. they're also a headache to manage and leave your house trashed and dirty, making your house a very unproductive space
+- avoid hosting parties regularly. most landlords don't like that. they're also a headache to manage and leave your house trashed and dirty, making your house a very unproductive space, obviously ymmv but i generally prefer not to call groups of people over more than 3-4 times a month.
+- 
