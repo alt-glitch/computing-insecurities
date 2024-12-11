@@ -201,3 +201,4 @@ the list of ideas and projects i'd wanna try out keeps on increasing but i think
 - arnav, the rithwiks and the rest of lagrange point for being an amazingly energetic group of people to be around and learn from.
 - blue tokai koramangala for their iced americano.
 - monster beverage corporation and zepto for letting me have white monster to fuel my all-nighters.
+- the countless number of helpful people and mentors whose collective knowledge pushes me forward!
