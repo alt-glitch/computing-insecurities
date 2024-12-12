@@ -1,7 +1,7 @@
 ---
 title: beginner's guide to bangalore
-date created: 2024-09-18
-description: how to move here, how to survive and
+date created: 2024-12-11
+description: how to move here, how to survive
 ---
 i moved to bangalore [recently](https://x.com/sidbing/status/1817945864704258514) and i've been staying in this city for a better part of a year. i wanted to write this guide/checklist for someone considering to the same.
 

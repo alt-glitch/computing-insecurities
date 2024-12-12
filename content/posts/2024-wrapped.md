@@ -1,7 +1,7 @@
 ---
 title: review of twenty twenty-four
 link: twenty-twenty-four-wrapped
-date created: 2024-12-11
+date created: 2024-12-12
 ---
 ## why?
 "you're never satisfied with yourself because you keep changing the goalpost"
@@ -76,6 +76,27 @@ organized my first hackathon with 60+ participating and 45 of them pulling an al
 
 ![[Pasted image 20241211234438.png|400]]
 
+
+### other random stuff
+**leaking arc browser's system prompt**
+one random night, arc launches it's new ai "browse for you" features. i was supposed to be asleep, but me and a few other Lagrangians (what us Lagrange Point fellows refer to ourselves) decided to take a stab at trying to understand how it worked. we ended up with their system prompts and a better understanding of their infrastructure!
+
+![[Pasted image 20241212082110.png]]
+fun little [thread here](https://x.com/thel3l/status/1753149379207131386)
+
+**daniel gross's ai grant conference**
+
+one random february day, daniel gross dropped an online capture the flag. i hadn't CTFs in forever! and one which would let me attend AI grants hacker conference? i got to hacking right away.
+
+![[Pasted image 20241212082317.png]]
+
+took me a week of on-off struggle but i was finally in. i [didn't like the CTF](https://sidbin.substack.com/i/142408967/a-disappointing-ctf) honestly.
+
+while the conference didn't pan out, i'm still in a discord server with DG hehe.
+
+![[Pasted image 20241212082624.png]]
+
+
 ---
 
 ## june-july
@@ -87,9 +108,11 @@ it led to a sudden urge to literally lock myself in a room and get a better unde
 
 i decided to take the leap and follow this urge. i wrapped up my work at julep and decided to spend a sizable amount of my day on [mathacademy.com](https://mathacademy.com) as well as learn and work on more things that expand my breadth and depth of knowledge.
 
+for math, i started the mathematics for ml course. i basically had to speedrun
+
 i built [epoch0](https://x.com/sidbing/status/1803861695674356045), a discord server for people in a similar position to study math, ml, ai agents together - mostly because i wanted to surround myself with people studying the same things i was. 
 
-it currently has 178 people in it, gpt whisperers, machine learners, ai builders, math nerds; the whole shebang.
+it currently has 178 people in it; gpt whisperers, machine learners, ai builders, math nerds; the whole shebang.
 
 ![[Pasted image 20240801090658.png|450]]
 
@@ -112,7 +135,7 @@ i was fully moved into a house of my own in a week.
 
 moving into a place in bangalore is like a 2 week long unpaid internship at the end of which you pay a landlord 1-5 lakh as deposit.
 
-a huuggee shoutout to [lavish](https://x.com/lavishsaluja) for letting my crash at his place while i hunted for a place and [jayesh](https://x.com/wjayesh) for priceless advice of "when you enter the room, you'll know if you wanna move in"
+a huuggee shoutout to [lavish](https://x.com/lavishsaluja) for letting me crash at his place while i hunted for a place and [jayesh](https://x.com/wjayesh) for priceless advice of "when you enter the room, you'll know if you wanna move in"
 
 
 i also gained some thoughts and opinions about moving and living in bangalore over at: [[beginners-guide-blr]].
@@ -168,29 +191,49 @@ then we fine-tuned 3 LLMs on this dataset just to see if it makes sense to expan
 
 then we rounded up our research into a paper that's under review at [VLDB](https://vldb.org/2025/)!
 
+[here's](https://arxiv.org/abs/2412.03612) the paper!
+
+![[Pasted image 20241212105118.png]]
+
+
 > i plan to talk more about the paper and our general direction after this soon in another blog post! for now, here's the [arxiv](https://arxiv.org/abs/2412.03612), [huggingface](https://huggingface.co/nl-to-logql) and [github](https://github.com/nl2logql/LogQLLM)
+
+![[Pasted image 20241212104524.png|600]]
+
 
 ## november-december
 
-i got into turings dream, an ai residency based in bangalore! i explored a lot of random stuff here as well as round up my research with vish.
+i got into [turings dream](https://turingsdream.co), an ai residency based in bangalore! i explored a lot of random stuff here as well as round up my research with vish.
 
-![[Pasted image 20241212014922.png]]
+![[Pasted image 20241212014922.png|600]]
 
 some cold-emailing led me to contributing to MTEB, the massive text embedding benchmark where i was able to read code of an evaluation and benchmarking project which was quite nice.
 
+![[Pasted image 20241212102622.png|600]]
+
 i gave my first talk at a conference! i spoke at hasgeeks [rootconf mini](https://hasgeek.com/rootconf/2024/) this year about my research.
 
-however, i got hit with what i can only speculate to be covid which rendered me unable to work for a good 10 days. i was sadly unable to give the talk in person due to this.
+however, i got hit with what i can only speculate to be covid which rendered me unable to work for a good 10 days. i was sadly unable to give the talk in person due to this. thanks to dolo 650 and zoom for letting me dial in and give the talk while sweating like a pig.
 
 ![[Copy of _CHA3669.jpg]]
 
+### wrapping up
 
 to round up q4, i picked up an amazing project over at [composio](https://composio.dev) to work on which i'm excited to continue on.
 
 the list of ideas and projects i'd wanna try out keeps on increasing but i think i'm coming to terms with the fact that i can't stop treating life as an open-world RPG game where i can just do random stuff.
 
+> if you're reading this, please remind me to post my project and to-do lists on this site.
 
 **towards 2025.**
+
+---
+## reflecting
+
+2024 >> 2024 for me. a lot of the struggles i started in 2023 matured this year which was amazing to live through. i'm excited for the "we're so back, it's so over" cycle of 2025.
+
+![[Pasted image 20241212112356.png]]
+
 
 ---
 ## shoutouts i missed
