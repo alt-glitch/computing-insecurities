@@ -230,7 +230,7 @@ the list of ideas and projects i'd wanna try out keeps on increasing but i think
 ---
 ## reflecting
 
-2024 >> 2024 for me. a lot of the struggles i started in 2023 matured this year which was amazing to live through. i'm excited for the "we're so back, it's so over" cycle of 2025.
+2024 >> 2023 for me. a lot of the struggles i started in 2023 matured this year which was amazing to live through. i'm excited for the "we're so back, it's so over" cycle of 2025.
 
 ![[Pasted image 20241212112356.png]]
 
