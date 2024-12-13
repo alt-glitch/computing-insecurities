@@ -86,7 +86,7 @@ fun little [thread here](https://x.com/thel3l/status/1753149379207131386)
 
 **daniel gross's ai grant conference**
 
-one random february day, daniel gross dropped an online capture the flag. i hadn't CTFs in forever! and one which would let me attend AI grants hacker conference? i got to hacking right away.
+one random february day, daniel gross dropped an online capture the flag. i hadn't done CTFs in forever! and one which would let me attend AI grants hacker conference? i got to hacking right away.
 
 ![[Pasted image 20241212082317.webp]]
 
@@ -157,7 +157,7 @@ i usually don't have instagram but i decided to deactivate X as well. it was tim
 ![[Pasted image 20241212015834.webp|400]]
 
 ### motivatooor!
-i also needed started freelancing with [capx ai](https://capx.ai), specifically with another amazing builder, [divya](https://x.com/divyaranjan_) to build out unique telegram agents for them.
+i also started freelancing with [capx ai](https://capx.ai), specifically with another amazing builder, [divya](https://x.com/divyaranjan_) to build out unique telegram agents for them.
 
 > shoutout to tyagi and divya!
 
