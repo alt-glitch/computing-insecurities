@@ -32,7 +32,7 @@ Enough exposition, let's dive in.
 
 ## The Farmer's Movements Through Snap Maps
 
-![[jan26 farmer movement.png]]
+![[jan26 farmer movement.webp]]
 If you look at Delhi through the [Snap Maps](https://map.snapchat.com/@28.659940,77.247903,10.10z), you immediately notice the heat map Snapchat overlays on top of Delhi giving a sense of the Snapchat activity in the area.
 
 
@@ -46,7 +46,7 @@ Throughout 26th January, Snap Maps showed a live map of the movement of the farm
 
 Here is the original route that was supposed to be followed.
 
-![[Pasted image 20210131102304.png]]
+![[Pasted image 20210131102304.webp]]
 
 > Image taken from Hindustan Times
 
@@ -79,81 +79,81 @@ Below one can now see the two new hotspots in Delhi, the Najafgarh border and Re
 ## EDIT: Some screenshots
 As mentioned above, SnapMaps doesn't work anymore but while documenting I managed to scrape some photos uploaded to public Snapchat stories. I do apologize for not documenting it better.
 
-![[Pasted image 20211212094947.png]]
+![[Pasted image 20211212094947.webp]]
 
 
 
-![[Pasted image 20211212095001.png]]
+![[Pasted image 20211212095001.webp]]
 
 
 
-![[Pasted image 20211212095012.png]]
+![[Pasted image 20211212095012.webp]]
 
 
 
-![[Pasted image 20211212095035.png]]
+![[Pasted image 20211212095035.webp]]
 
 
 
 
 
-![[Pasted image 20211212095046.png]]
+![[Pasted image 20211212095046.webp]]
 
 
 
-![[Pasted image 20211212095101.png]]
+![[Pasted image 20211212095101.webp]]
 
 
 
 >Snapchat filters with their timestamps really made tracking them easier!
 
-![[Pasted image 20211212095155.png]]
+![[Pasted image 20211212095155.webp]]
 
 
 
 > This picture is probably one of my favourites!
 
-![[Pasted image 20211212095248.png]]
+![[Pasted image 20211212095248.webp]]
 
 
 
-![[Pasted image 20211212095329.png]]
+![[Pasted image 20211212095329.webp]]
 
 
 
-![[Pasted image 20211212095405.png]]
+![[Pasted image 20211212095405.webp]]
 
 
 
 > Ah! The stickers and the filters...
 
-![[Pasted image 20211212095704.png]]
+![[Pasted image 20211212095704.webp]]
 
 
 
-![[Pasted image 20211212095737.png]]
+![[Pasted image 20211212095737.webp]]
 
 
 
 > Thanks for tagging and identifying yourself!
 
-![[Pasted image 20211212095841.png]]
+![[Pasted image 20211212095841.webp]]
 
 
 
 
 ## Some unrelated favs
-![[Pasted image 20211212095521.png]]
+![[Pasted image 20211212095521.webp]]
 
 
 
-![[Pasted image 20211212095600.png]]
+![[Pasted image 20211212095600.webp]]
 
 
 
 > Republic Day 2021 was an extremely important day for starving PUBG players too! # NeverForget
 
-![[Pasted image 20211212095911.png]]
+![[Pasted image 20211212095911.webp]]
 
 
 

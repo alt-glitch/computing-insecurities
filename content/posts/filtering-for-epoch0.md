@@ -8,12 +8,12 @@ epoch0 is a server/study group that i started for ppl to study math/ml/cs togeth
 
 i put out a couple tweets that kind of blew up and directed a lot of attention to the janky waitlist form i had made for the server.
 
-![[Pasted image 20240801090658.png|450]]
-![[Pasted image 20240801090740.png|450]]
+![[Pasted image 20240801090658.webp|450]]
+![[Pasted image 20240801090740.webp|450]]
 
 so that led to 500 ppl filling out this form (counting an older typeform i'd made)
 
-![[Pasted image 20240801090848.png|450]]
+![[Pasted image 20240801090848.webp|450]]
 
 # the challenge
 what i didn't want to do was explicitly judge the people based on their skills, past, present etc.
@@ -27,11 +27,11 @@ mostly i just wanted to filter spam/troll/low effort _out_.
 # claude to the rescue
 i wrote a "spec" for what i want epoch 0 to look like and then used claude to help me think through how i should evaluate the form entries.
 
-![[Pasted image 20240801091657.png|600]]
+![[Pasted image 20240801091657.webp|600]]
 
 it asked a bunch of really cool questions, which was amazing
 
-![[Pasted image 20240801091745.png|600]]
+![[Pasted image 20240801091745.webp|600]]
 
 a little bit of back and forth and i made it generate a system and user prompt for `gpt-4o` with an evaluation document, input format of the form entry and a JSON schema for the results.
 
@@ -59,12 +59,12 @@ after this sanity check, we were good to go!
 # results
 what i was dreading to do for an entire day took me like 1 hour.
 
-![[Pasted image 20240801093539.png]]
+![[Pasted image 20240801093539.webp]]
 
 in the end i sent out the invite to 290 people.
 
 many of them started joining immediately. this is what the # intro channel looks like rn.
 
-![[Pasted image 20240801095554.png]]
+![[Pasted image 20240801095554.webp]]
 
-![[Pasted image 20240801095621.png]]
+![[Pasted image 20240801095621.webp]]

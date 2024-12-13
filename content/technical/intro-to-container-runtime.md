@@ -37,7 +37,7 @@ It currently has two specifications;
 1. [Runtime specification](https://github.com/opencontainers/runtime-spec/blob/main/runtime.md) to define the working and lifecycle of a container during *runtime*
 	- Example, it defines **how** exactly does your docker container work when you run `docker container create golang:alpine`
 
-	- In the specification, you can see that an OCI-spec container needs to have some properties. ![[Pasted image 20220116112152.png]]
+	- In the specification, you can see that an OCI-spec container needs to have some properties. ![[Pasted image 20220116112152.webp]]
 
 2. [Image specification](https://github.com/opencontainers/image-spec/blob/main/spec.md) to define the standard format of a container image.
 
@@ -51,13 +51,13 @@ Examples of some container runtimes are [CRI-O](https://cri-o.io/), Docker, [con
 
 If you start reading up about all these container runtimes, you will notice some things in common.
 
-![[Pasted image 20220116113439.png]]
+![[Pasted image 20220116113439.webp]]
 
-![[Pasted image 20220116113645.png]]
+![[Pasted image 20220116113645.webp]]
 
 Both, `containerd `and `cri-o` list OCI specification through using `runC`. But, aren't they container runtimes too? And isn't `runC` another container runtime?
 
-![[Pasted image 20220116113916.png]]
+![[Pasted image 20220116113916.webp]]
 
 There is a logic to this confusion too.
 
@@ -80,7 +80,7 @@ Okay! That was a lot of confusing theory. Fingers crossed I haven't added to you
 
 If you have installed docker on your system before, then you will also have installed the `containerd` daemon, and it's CLI tool `ctr`.  If not, then go ahead and install `containerd` on your system.
 
-![[Pasted image 20220116122828.png]]
+![[Pasted image 20220116122828.webp]]
 
 Go ahead and start `containerd` daemon and leave it running. Let's use `ctr` to pull an image, start and manage containers
 
@@ -100,14 +100,14 @@ You can list the images using;
 sudo ctr images ls -q  # -q for only the name
 ```
 
-![[Pasted image 20220116135826.png]]
+![[Pasted image 20220116135826.webp]]
 
 If you want, you can delete the images too. Just use the `rm` command;
 ```bash
 sudo ctr images rm docker.io/library/redis:alpine
 ```
 
-![[Pasted image 20220116142141.png]]
+![[Pasted image 20220116142141.webp]]
 
 If you have an existing Dockerfile, you can import that to `containerd` too! First, go and save the image as a `.tar` file.
 ```docker
@@ -115,14 +115,14 @@ docker save -o hello-world.tar hello-world
 # docker save -o tar-filename.tar image-name
 ```
 
-![[Pasted image 20220116142828.png]]
+![[Pasted image 20220116142828.webp]]
 
 Then go ahead and import it with;
 ```bash
 sudo ctr images import hello-world.tar
 ```
 
-![[Pasted image 20220116143008.png]]
+![[Pasted image 20220116143008.webp]]
 
 
 #### Playing around with containers
@@ -131,7 +131,7 @@ To create a container, the `container create` command is used;
 sudo ctr container create docker.io/library/hello-world:latest hello-1
 ```
 
-![[Pasted image 20220116144740.png]]
+![[Pasted image 20220116144740.webp]]
 
 Now that we have a container, we have to execute it. Note that we have just created the container and have to execute the tasks and processes inside it. As of now, it's just an *isolated and restricted box* without a process running inside it. Hence, [a container isn't a process](https://iximiuz.com/en/posts/oci-containers/).
 
@@ -142,10 +142,10 @@ sudo ctr task start hello-1
 
 The result is that we see docker's default hello-world container running! Notice how many more steps we had to follow to get this hello-world image, and then running it as compared to docker. That's because as you go lower the abstraction layer you get more power but also more responsibility (of doing more work to achieve the same thing).
 
-![[Pasted image 20220116145906.png]]
+![[Pasted image 20220116145906.webp]]
 
 You can even get a shell if the container supports it.
-![[Pasted image 20220116150451.png]]
+![[Pasted image 20220116150451.webp]]
 
 As a bonus, go to the terminal where your `containerd` was running to see its debug outputs while you create and execute containers.
 
@@ -277,7 +277,7 @@ So we've gone through understanding what a container runtime is, what `container
 
 Here is my rough understanding of using `containerd`.
 
-![[Pasted image 20220116155631.png]]
+![[Pasted image 20220116155631.webp]]
 
 I hope I was moderately helpful in explaining or going through these concepts and haven't confused you further. If you're also studying cloud native technologies or just want to discuss security and tech with me, feel free to contact me!
 

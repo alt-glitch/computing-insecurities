@@ -33,7 +33,7 @@ after a couple of calls, i actually decided to move in with both the founders of
 
 this meant i had to say bye-bye to [Lagrange Point](https://x.com/_lagrangepoint) and the wonderful people there. i had basically built out the latter stages of nous while living and hacking here.
 
-![[Pasted image 20241211230644.png|400]]
+![[Pasted image 20241211230644.webp|400]]
 
 
 thus started my first arc in the year.
@@ -44,11 +44,11 @@ thus started my first arc in the year.
 i started learning a lot. there were models to train, datasets to clean, experiments to run, a product to figure out.
 
 
-![[Pasted image 20241211231116.png]]
+![[Pasted image 20241211231116.webp]]
 
-![[Pasted image 20241211231515.png|400]]
+![[Pasted image 20241211231515.webp|400]]
 
-![[Pasted image 20241211231613.png|400]]
+![[Pasted image 20241211231613.webp|400]]
 
 i also ended up closer to my school friends which also made me quite happy!
 
@@ -66,35 +66,35 @@ once, i had to spend an entire day fixing our git history which i messed up whil
 
 later that week, were able to open-source and launch julep!
 was lucky to be able to be a part of the launch!
-![[Pasted image 20241211233753.png|400]]
+![[Pasted image 20241211233753.webp|400]]
 
 had my first caffeine-powered all-nighter coding session! i'm an early bird but white monster ftw.
 
-![[Pasted image 20241211234302.png]]
+![[Pasted image 20241211234302.webp]]
 
 organized my first hackathon with 60+ participating and 45 of them pulling an all-nighter to hack on cool AI stuff built using julep!
 
-![[Pasted image 20241211234438.png|400]]
+![[Pasted image 20241211234438.webp|400]]
 
 
 ### other random stuff
 **leaking arc browser's system prompt**
 one random night, arc launches it's new ai "browse for you" features. i was supposed to be asleep, but me and a few other Lagrangians (what us Lagrange Point fellows refer to ourselves) decided to take a stab at trying to understand how it worked. we ended up with their system prompts and a better understanding of their infrastructure!
 
-![[Pasted image 20241212082110.png]]
+![[Pasted image 20241212082110.webp]]
 fun little [thread here](https://x.com/thel3l/status/1753149379207131386)
 
 **daniel gross's ai grant conference**
 
 one random february day, daniel gross dropped an online capture the flag. i hadn't CTFs in forever! and one which would let me attend AI grants hacker conference? i got to hacking right away.
 
-![[Pasted image 20241212082317.png]]
+![[Pasted image 20241212082317.webp]]
 
 took me a week of on-off struggle but i was finally in. i [didn't like the CTF](https://sidbin.substack.com/i/142408967/a-disappointing-ctf) honestly.
 
 while the conference didn't pan out, i'm still in a discord server with DG hehe.
 
-![[Pasted image 20241212082624.png]]
+![[Pasted image 20241212082624.webp]]
 
 
 ---
@@ -114,7 +114,7 @@ i built [epoch0](https://x.com/sidbing/status/1803861695674356045), a discord se
 
 it currently has 178 people in it; gpt whisperers, machine learners, ai builders, math nerds; the whole shebang.
 
-![[Pasted image 20240801090658.png|450]]
+![[Pasted image 20240801090658.webp|450]]
 
 this is when i started my habit of waking up (or aiming to) at 5am everyday for studying math. yes, there were off-days. yes, sometimes it was 6am or 7am. but amazingly i was able to keep this habit really consistent!
 
@@ -131,7 +131,7 @@ the timelines were insane.
 
 i was fully moved into a house of my own in a week.
 
-![[Pasted image 20241212002934.png]]
+![[Pasted image 20241212002934.webp]]
 
 moving into a place in bangalore is like a 2 week long unpaid internship at the end of which you pay a landlord 1-5 lakh as deposit.
 
@@ -154,7 +154,7 @@ once i had a table and a chair, i got cracking on some initial experiments for t
 
 i usually don't have instagram but i decided to deactivate X as well. it was time to lock in.
 
-![[Pasted image 20241212015834.png|400]]
+![[Pasted image 20241212015834.webp|400]]
 
 ### motivatooor!
 i also needed started freelancing with [capx ai](https://capx.ai), specifically with another amazing builder, [divya](https://x.com/divyaranjan_) to build out unique telegram agents for them.
@@ -169,17 +169,17 @@ the unique takeaways here were:
 - telegram mini-apps and bots can make a looottt of money.
 - if everyone i know used telegram, i'd have soo many agents doing stuff for me. but whatsapp is really hostile to developers (but so is my code)
 
-![[Pasted image 20241212010152.png|400]]
+![[Pasted image 20241212010152.webp|400]]
 
 
-![[Pasted image 20241212010108.png]]
+![[Pasted image 20241212010108.webp]]
 
 ### math
 
 math was going amazing! 
 i was generally a morning person during this period and had the fastest coverage of my math for the ML course.
 
-![[Pasted image 20241212014745.png]]
+![[Pasted image 20241212014745.webp]]
 
 
 ### logql-llm
@@ -193,29 +193,29 @@ then we rounded up our research into a paper that's under review at [VLDB](https
 
 [here's](https://arxiv.org/abs/2412.03612) the paper!
 
-![[Pasted image 20241212105118.png]]
+![[Pasted image 20241212105118.webp]]
 
 
 > i plan to talk more about the paper and our general direction after this soon in another blog post! for now, here's the [arxiv](https://arxiv.org/abs/2412.03612), [huggingface](https://huggingface.co/nl-to-logql) and [github](https://github.com/nl2logql/LogQLLM)
 
-![[Pasted image 20241212104524.png|600]]
+![[Pasted image 20241212104524.webp|600]]
 
 
 ## november-december
 
 i got into [turings dream](https://turingsdream.co), an ai residency based in bangalore! i explored a lot of random stuff here as well as round up my research with vish.
 
-![[Pasted image 20241212014922.png|600]]
+![[Pasted image 20241212014922.webp|600]]
 
 some cold-emailing led me to contributing to MTEB, the massive text embedding benchmark where i was able to read code of an evaluation and benchmarking project which was quite nice.
 
-![[Pasted image 20241212102622.png|600]]
+![[Pasted image 20241212102622.webp|600]]
 
 i gave my first talk at a conference! i spoke at hasgeeks [rootconf mini](https://hasgeek.com/rootconf/2024/) this year about my research.
 
 however, i got hit with what i can only speculate to be covid which rendered me unable to work for a good 10 days. i was sadly unable to give the talk in person due to this. thanks to dolo 650 and zoom for letting me dial in and give the talk while sweating like a pig.
 
-![[Copy of _CHA3669.jpg]]
+![[Copy of _CHA3669.webp]]
 
 ### wrapping up
 
@@ -232,7 +232,7 @@ the list of ideas and projects i'd wanna try out keeps on increasing but i think
 
 2024 >> 2023 for me. a lot of the struggles i started in 2023 matured this year which was amazing to live through. i'm excited for the "we're so back, it's so over" cycle of 2025.
 
-![[Pasted image 20241212112356.png]]
+![[Pasted image 20241212112356.webp]]
 
 
 ---

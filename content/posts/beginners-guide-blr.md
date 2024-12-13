@@ -9,13 +9,13 @@ this place has a lot of potential if you know how to unlock it. this guide is so
 
 ---
 
-# moving to bangalore
+## moing to bangalore
 
 here's a [crummy map](https://hoodmaps.com/bengaluru-neighborhood-map) of what people think different parts of bangalore are like. i disagree with some of the labels but i also think everyone has their perception, or a version of a city.
 
 here's an opinionated view of the city. remember that, your understanding of the city probably *will vary.* 
 
-![[Pasted image 20240918203624.png]]
+![[Pasted image 20240918203624.webp]]
 
 - red: you don't want to stay outside of this area in most circumstances. traffic in bangalore sucks, it's true. we're not here to whine about that, we're here to make most of the city as it stands
 - yellow: this circle covers what i think to be quite dense in terms of interesting people to meet, interesting things to do. 
@@ -34,3 +34,9 @@ if you're house hunting, here's a few more opinionated notes;
 - avoid hosting parties regularly. most landlords don't like that. they're also a headache to manage and leave your house trashed and dirty, making your house a very unproductive space, obviously ymmv but i generally prefer not to call groups of people over more than 3-4 times a month.
 - bangalore is a dusty city in most places. something to keep in mind, you'll be dusting stuff a lot.
 - try to automate the cooking cleaning part of your life such that your involvement is minimal. meaning, even if it takes time and more money, get a good cook and cleaning help. it's worth it.
+
+
+---
+
+## settling in
+- if you need a comfortable and quiet space to work out of during the weekends. start frequenting [hsrhackerhouse](https://hsrhackerhouse.lol/community)! you'll also get to show and talk about your work after working in pomodoro sessions for 5-6 hours!
