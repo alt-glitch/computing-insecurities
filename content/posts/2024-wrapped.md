@@ -215,6 +215,8 @@ i gave my first talk at a conference! i spoke at hasgeeks [rootconf mini](https:
 
 however, i got hit with what i can only speculate to be covid which rendered me unable to work for a good 10 days. i was sadly unable to give the talk in person due to this. thanks to dolo 650 and zoom for letting me dial in and give the talk while sweating like a pig.
 
+> also a shoutout to [zainab](https://x.com/zainabbawa) and [hasgeek](https://hasgeek.com/) for organizing this and planning around my 103 fever!
+
 ![[Copy of _CHA3669.webp]]
 
 ### wrapping up
