@@ -62,7 +62,7 @@ i helped clean datasets and finally found a way to run out of the 40 gigs of mem
 
 built up a really amazing understanding of the engineering that needs to go in behind an "agent".
 
-once, i had to spend an entire day fixing our git history which i messed up while cleaning leaked secrets before our open source launch :P
+once, we had to spend an entire day fixing our git history which i messed up while cleaning leaked secrets before our open source launch :P
 
 later that week, were able to open-source and launch julep!
 was lucky to be able to be a part of the launch!
